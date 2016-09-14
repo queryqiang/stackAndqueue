@@ -75,7 +75,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="stackAndQueue.cpp" />
+    <ClCompile Include="circleQueue.cpp" />
+    <ClCompile Include="listQueue.cpp" />
+    <ClCompile Include="queue.cpp" />
+    <ClCompile Include="stack.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
